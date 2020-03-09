@@ -8,7 +8,7 @@ computador.
 
 Não bastasse a dificuldade inerente à abstração, ainda há inúmeras formas de
 programar o seu computador, normalmente chamadas de _paradigmas_. Este livro se
-propõem a explicar o paradigma imperativo por ser o mais popular e o mais usado
+propõe a explicar o paradigma imperativo por ser o mais popular e o mais usado
 no mercado. Dentro deste paradigma, veremos os paradigmas procedural e orientado
 ao objeto, também por serem paradigmas populares no mercado.
 
