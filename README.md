@@ -1,6 +1,6 @@
 # Python para não programadores
 
-[![Licença Creative Commons 4.0][cc-license-badge]](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Licença Creative Commons][cc-license-badge]](LICENSE)
 
 A linguagem Python tornou-se muito popular atuamente principalmente por conta da
 alta demanda causada pela inteligência artificial. Vários frameworks são
