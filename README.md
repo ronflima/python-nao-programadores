@@ -1,5 +1,7 @@
 # Python para não programadores
 
+[![Licença Creative Commons 4.0][cc-license-badge]](http://creativecommons.org/licenses/by-sa/4.0/)
+
 A linguagem Python tornou-se muito popular atuamente principalmente por conta da
 alta demanda causada pela inteligência artificial. Vários frameworks são
 escritos em Python e, por isso, Python vem ganhando muito momento ultimamente.
@@ -16,6 +18,5 @@ gratuito doando qualquer quantia para manter este projeto no ar.
 
 [![Mantenha este livro gratuito](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MDHB86PSZABPY&source=url)
 
-# Licença
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-Compartilha Igual 4.0 Internacional</a>.
+[cc-license-badge]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
+[cc-license-text]: http://creativecommons.org/licenses/by-sa/4.0/
